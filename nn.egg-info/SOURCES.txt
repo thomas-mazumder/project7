@@ -1,0 +1,16 @@
+LICENSE
+README.md
+setup.py
+data/rap1-lieb-positives.txt
+data/rap1-lieb-test.txt
+data/yeast-upstream-1k-negative.fa
+nn/__init__.py
+nn/io.py
+nn/nn.py
+nn/preprocess.py
+nn.egg-info/PKG-INFO
+nn.egg-info/SOURCES.txt
+nn.egg-info/dependency_links.txt
+nn.egg-info/requires.txt
+nn.egg-info/top_level.txt
+test/test_nn.py
